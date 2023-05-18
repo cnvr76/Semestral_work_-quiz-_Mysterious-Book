@@ -6,7 +6,7 @@ Mysterious Book is a fun and interactive way to compete with your friends by ans
 
 ## Trailer of the game
 
-```
+```link
 https://youtu.be/GRPIIHZdac0
 ```
 
