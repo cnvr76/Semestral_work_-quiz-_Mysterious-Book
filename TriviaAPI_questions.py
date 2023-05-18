@@ -4,10 +4,10 @@ import random
 def request_q(topic, qtype):
     url = 'https://opentdb.com/api.php'
     params = {
-        'amount': 1, # количество вопросов
-        'category': topic, # категория
-        'difficulty': 'medium', # уровень сложности
-        'type': qtype # тип вопросов
+        'amount': 1, # amount of questions
+        'category': topic, # category
+        'difficulty': 'medium', # difficulty
+        'type': qtype # questions type
     }
     response = requests.get(url, params=params)
     if response.status_code == 200:
@@ -30,7 +30,3 @@ def request_q(topic, qtype):
             return None
     else:
         return None
-
-
-# generated = request_q(12, 'boolean')
-# print(generated[2])
