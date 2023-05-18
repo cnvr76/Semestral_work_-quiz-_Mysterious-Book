@@ -55,5 +55,7 @@ The Mysterious book game is built with Python 3 (and Pygame) and utilizes the fo
 
 + `TriviaAPI_questions.py`: This module contains API function responsible for taking questions from large Trivia database (ABCD and True/False)
 
++ `points.txt`: file to which game will add all of the score by the end of the game
+
 ## Conclusion
 Congratulations! Now you understand the Mysterious book's codebase and know how to contribute to the project.
