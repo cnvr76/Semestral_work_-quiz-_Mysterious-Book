@@ -6,7 +6,7 @@ Mysterious Book is a fun and interactive way to compete with your friends by ans
 
 ## Trailer of the game
 
-```link
+```
 https://youtu.be/GRPIIHZdac0
 ```
 
@@ -18,27 +18,27 @@ To use the program, you'll need to have Python 3.x installed on your system. You
 
 1. Clone the repository to your local machine using the following command:
 
-```bash
+```
 git clone https://github.com/cnvr76/Semestral_work_-quiz-_Mysterious-Book.git
 ```
 
 2. If you want to run the game directly from compiling the code - install the required packages using the command:
 
-```bash
+```
 pip3 install -r requirements.txt
 ```
 
 3. Download a zip folder from my Google Drive by the link below (it contains used images and videos which are important for the program to work correctly, and, if you don't want to install the requirements, the executable file that you need to move to the project folder):
 
-```bash
-https://drive.google.com/file/d/1U4j3jeVbD1UZjNp4YQGiHAbt7HQep7tZ/view?usp=share_link
+```
+https://drive.google.com/file/d/1HQtb9ORfTojJin3ClapfppPPqISUf4db/view?usp=share_link
 ```
 
 ## Usage
 
 To start the program, run the following command from the project directory in console (or click on the .exe file):
 
-```bash
+```
 python3 main.py
 ```
 
