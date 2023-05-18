@@ -1,0 +1,41 @@
+questions = [
+    "What is the capital of France?",
+    "Who painted the Mona Lisa?",
+    "What is the largest planet in our solar system?",
+    "What is the chemical symbol for gold?",
+    "What is the tallest mountain in the world?",
+    "Who wrote the play 'Romeo and Juliet'?",
+    "What is the tallest animal in the world?",
+    "Who discovered gravity?",
+    "What is the largest ocean on Earth?",
+    "Who painted the Sistine Chapel ceiling?",
+    "What is the currency of Japan?",
+    "Who is the current President of the United States?",
+    "What is the chemical symbol for iron?",
+    "Who wrote the novel '1984'?",
+    "What is the main language spoken in Brazil?",
+    "Who is the Greek god of thunder?",
+    "What is the largest continent on Earth?",
+    "Who painted the 'Starry Night'?"
+]
+
+answers = [
+    "Paris",
+    "Leonardo",
+    "Jupiter",
+    "Au",
+    "Everest",
+    "Shakespeare",
+    "Giraffe",
+    "Newton",
+    "Pacific",
+    "Michelangelo",
+    "Yen",
+    "Biden",
+    "Fe",
+    "Orwell",
+    "Portuguese",
+    "Zeus",
+    "Asia",
+    "Vincent"
+]
