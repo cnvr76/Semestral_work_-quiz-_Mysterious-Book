@@ -4,6 +4,12 @@
 
 Mysterious Book is a fun and interactive way to compete with your friends by answering quick test questions. This game is designed to test your knowledge on various topics and enhance your critical thinking skills while having fun. This project was made by using Python, especially, Pygame library. All the graphics created using Blender and Adobe Photoshop.
 
+## Trailer of the game
+
+```
+https://youtu.be/GRPIIHZdac0
+```
+
 ## Prerequisites
 
 To use the program, you'll need to have Python 3.x installed on your system. You can download Python from the [official website](https://www.python.org/downloads/).
