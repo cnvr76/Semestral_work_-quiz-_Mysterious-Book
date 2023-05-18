@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 3. Download a zip folder from my Google Drive by the link below (it contains used images and videos which are important for the program to work correctly, and, if you don't want to install the requirements, the executable file that you need to move to the project folder):
 
 ```bash
-https://drive.google.com/file/d/1AjZhg4cK9n1_t_5uASrkLtzmPLn8o2t7/view?usp=share_link
+https://drive.google.com/file/d/1U4j3jeVbD1UZjNp4YQGiHAbt7HQep7tZ/view?usp=share_link
 ```
 
 ## Usage
