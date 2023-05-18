@@ -13,7 +13,7 @@ To use the program, you'll need to have Python 3.x installed on your system. You
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Maksikos-ctrl/SemestralnaPracaPython.git
+git clone https://github.com/cnvr76/Semestral_work_-quiz-_Mysterious-Book.git
 ```
 
 2. If you want to run the game directly from compiling the code - install the required packages using the command:
