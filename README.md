@@ -49,7 +49,7 @@ The Mysterious book game is built with Python 3 (and Pygame) and utilizes the fo
 
 + `config.py`: This module contains all the basic parameters, uploading videos/images/sounds/fonts and almost all of the variables
 
-+ `input_questions.py`: This is the module that contains 2 lists of questions and answers for the the "input-type" questions
++ `input_questions.py`: This is the module that contains 2 lists of questions and answers for the "input-type" questions
 
 + `pygamevideo.py`: This is externally downloaded module that contains class for playing videos inside Pygame window
 
